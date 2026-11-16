@@ -5,5 +5,5 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "pata-production"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id ="6b39b8ab-0f14-4f99-bcfc-ed453d983407"
 migrations_dir = "migrations"
